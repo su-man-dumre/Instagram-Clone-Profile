@@ -17,7 +17,7 @@ README.md – You’re reading it!
 🧩 Features
 Displays a card with:
 
-User image
+User Image
 
 Name (Angel Priya)
 
@@ -25,7 +25,7 @@ Current relationship status (Stranger / Friend)
 
 Interactive button to toggle friend status
 
-On click:
+on Click:
 
 If Stranger → becomes Friend (green text, button says “Remove Friend”)
 
